@@ -1,0 +1,20 @@
+﻿  Pause.cpp
+Pause.cpp(28): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Pause.cpp(32): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Pause.cpp(36): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Pause.cpp(40): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Pause.cpp(58): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Pause.cpp(61): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Pause.cpp(65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Pause.cpp(65): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Pause.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pause.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pause.cpp(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pause.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     Creating library C:\Users\god\source\repos\MytonaFlappyBird\Release\MyTonaFlappyBird.lib and object C:\Users\god\source\repos\MytonaFlappyBird\Release\MyTonaFlappyBird.exp
+  Generating code
+  2 of 371 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MyTonaFlappyBird.vcxproj -> C:\Users\god\source\repos\MytonaFlappyBird\Release\MyTonaFlappyBird.exe
